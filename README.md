@@ -1,10 +1,10 @@
-#acsm
+# acsm
 Aho-Corasick String Match.
 
 A python implementation of aho-corasick string searching algorithm.
 
 ----------
-##Usage
+## Usage
 ```python
 import acsm
 string_match = acsm.StringMatch()
