@@ -8,7 +8,7 @@
     Usage:
         import acsm
         string_match = acsm.StringMatch()
-        pattern_list = ["java", "c", "c++", "python"]
+        pattern_list = ["java", "c", "c++", "Python"]
         string_match.read_from_iterable(pattern_list)
         print(string_match.match("Python is awesome", True))
 '''
